@@ -1,0 +1,59 @@
+{
+  "personajes": [
+    {
+      "id": 2,
+      "name": "Goku",
+      "origin": "Planeta Vegeta"
+    },
+    {
+      "id": 3,
+      "name": "Gohan",
+      "origin": "Planeta Tierra"
+    },
+    {
+      "id": 4,
+      "name": "Veggeta",
+      "origin": "Planeta Vegeta"
+    },
+    {
+      "id": 5,
+      "name": "Trunks",
+      "origin": "Planeta Tierra"
+    },
+    {
+      "id": 6,
+      "name": "Piccolo",
+      "origin": "Planeta Namek"
+    },
+    {
+      "id": 7,
+      "name": "Cell",
+      "origin": "Laboratorio del Dr. Gero"
+    },
+    {
+      "id": 8,
+      "name": "Yamcha",
+      "origin": "Planeta Tierra"
+    },
+    {
+      "id": 9,
+      "name": "Mr. Satán",
+      "origin": "Planeta Tierra"
+    },
+    {
+      "id": 10,
+      "name": "Bulma",
+      "origin": "Planeta Tierra"
+    },
+    {
+      "id": 11,
+      "name": "Krillin",
+      "origin": "Planeta Tierra"
+    },
+    {
+      "id": 12,
+      "name": "Raditz",
+      "origin": "Planeta Vegeta"
+    }
+  ]
+}
